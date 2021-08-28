@@ -1,0 +1,359 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - site:nestle.ch filetype:pdf sustainability",
+        "totalResults": "19",
+        "searchTerms": "site:nestle.ch filetype:pdf sustainability",
+        "count": 9,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "8b4ac89e366051c73"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - site:nestle.ch filetype:pdf sustainability",
+        "totalResults": "19",
+        "searchTerms": "site:nestle.ch filetype:pdf sustainability",
+        "count": 9,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "8b4ac89e366051c73"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google.ch (Bizres)"
+  },
+  "searchInformation": {
+    "searchTime": 0.326572,
+    "formattedSearchTime": "0.33",
+    "totalResults": "19",
+    "formattedTotalResults": "19"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Corporate Governance Report 2018 Compensation Report 2018 ...",
+      "htmlTitle": "Corporate Governance Report 2018 Compensation Report 2018 ...",
+      "link": "https://www.nestle.ch/fr/media/pressreleases/Documents/Corp_Governance_Report_2018_EN.pdf",
+      "displayLink": "www.nestle.ch",
+      "snippet": "Apr 12, 2018 ... 3.5.1 Allocation of tasks within the Board of Directors. Chairman's. Nomination and and Corporate. Compensation. Sustainability. Audit.",
+      "htmlSnippet": "Apr 12, 2018 \u003cb\u003e...\u003c/b\u003e 3.5.1 Allocation of tasks within the Board of Directors. Chairman&#39;s. Nomination and and Corporate. Compensation. \u003cb\u003eSustainability\u003c/b\u003e. Audit.",
+      "cacheId": "icfvm6D3OI0J",
+      "formattedUrl": "https://www.nestle.ch/fr/media/.../Corp_Governance_Report_2018_EN.pdf",
+      "htmlFormattedUrl": "https://www.nestle.ch/fr/media/.../Corp_Governance_Report_2018_EN.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM89Z73wGQYeGaLoR03QdK-AQjsuXgZC5munCEBq8BW-nL0iN66HEpeI4",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20190213231220+01'00'",
+            "creationdate": "D:20190213225112+01'00'",
+            "creator": "Adobe InDesign CC 2017 (Windows)",
+            "gts_pdfxconformance": "PDF/X-1a:2001",
+            "author": "roberto.giudice",
+            "producer": "Acrobat Distiller 18.0 (Windows)",
+            "gts_pdfxversion": "PDF/X-1:2001"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///4462dc9dae81f796a2c4945193c3cd94dce9619dd253b34440e88bba4aa69bd8"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Rapport de synthèse 2011 sur la Création de valeur partagée",
+      "htmlTitle": "Rapport de synthèse 2011 sur la Création de valeur partagée",
+      "link": "https://www.nestle.ch/asset-library/documents/csv/rapport_csv_2012.pdf",
+      "displayLink": "www.nestle.ch",
+      "snippet": "Nestlé travaille depuis plusieurs années avec SustainAbility, groupe ... L'analyse de SustainAbility et les rencontres de parties prenantes à.",
+      "htmlSnippet": "Nestlé travaille depuis plusieurs années avec \u003cb\u003eSustainAbility\u003c/b\u003e, groupe ... L&#39;analyse de \u003cb\u003eSustainAbility\u003c/b\u003e et les rencontres de parties prenantes à.",
+      "cacheId": "4oXY9zmxz6kJ",
+      "formattedUrl": "https://www.nestle.ch/asset-library/documents/csv/rapport_csv_2012.pdf",
+      "htmlFormattedUrl": "https://www.nestle.ch/asset-library/documents/csv/rapport_csv_2012.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS67RuvV9nUyJVcL5IJOrwkV9khIBhUXVIakPMZWhVwa9R7vEjWQZafUXly",
+            "width": "225",
+            "height": "224"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20120308095344+01'00'",
+            "creationdate": "D:20120308095226+01'00'",
+            "creator": "Adobe InDesign CS5 (7.0.3)",
+            "producer": "Adobe PDF Library 9.9"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///b569450658abda35f3e7b5c83be80c614be9b7603c79a8f95e4ce5deb90fc9e5"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nestlé et la société",
+      "htmlTitle": "Nestlé et la société",
+      "link": "https://www.nestle.ch/fr/media/documents/nestle-in-society-summary-report-2014-fr.pdf",
+      "displayLink": "www.nestle.ch",
+      "snippet": "Marchés couverts par les programmes de la Sustainable Agriculture Initiative Nestlé ... Dow Jones Sustainability Indices – Les indices de Durabilité Dow.",
+      "htmlSnippet": "Marchés couverts par les programmes de la \u003cb\u003eSustainable\u003c/b\u003e Agriculture Initiative Nestlé ... Dow Jones \u003cb\u003eSustainability\u003c/b\u003e Indices – Les indices de Durabilité Dow.",
+      "formattedUrl": "https://www.nestle.ch/fr/.../nestle-in-society-summary-report-2014-fr.pdf",
+      "htmlFormattedUrl": "https://www.nestle.ch/fr/.../nestle-in-society-summary-report-2014-fr.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqVJdFEaJmOdOyBmGsEQVcgoX28N08WetMnV7TFJV3nyX-eryb8M4vw7k",
+            "width": "202",
+            "height": "250"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20150415094456+02'00'",
+            "creationdate": "D:20150304103412+01'00'",
+            "creator": "Adobe InDesign CC 2014 (Macintosh)",
+            "producer": "Adobe PDF Library 11.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///cb29d51180d1cb85fae15c2371dff2fd169f67d84469cdde2fcad4adf9e12a11"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nestlé in der Gesellschaft",
+      "htmlTitle": "Nestlé in der Gesellschaft",
+      "link": "https://www.nestle.ch/de/documents/nestle-in-society-summary-report-2014-de.pdf",
+      "displayLink": "www.nestle.ch",
+      "snippet": "Dow Jones Sustainability Indizes – Diese Indizes messen die Leis- tung der bezüglich Nachhaltigkeit weltweit führenden Unternehmen.",
+      "htmlSnippet": "Dow Jones \u003cb\u003eSustainability\u003c/b\u003e Indizes – Diese Indizes messen die Leis- tung der bezüglich Nachhaltigkeit weltweit führenden Unternehmen.",
+      "formattedUrl": "https://www.nestle.ch/de/.../nestle-in-society-summary-report-2014-de.pdf",
+      "htmlFormattedUrl": "https://www.nestle.ch/de/.../nestle-in-society-summary-report-2014-de.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqVJdFEaJmOdOyBmGsEQVcgoX28N08WetMnV7TFJV3nyX-eryb8M4vw7k",
+            "width": "202",
+            "height": "250"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20150317120919+01'00'",
+            "creationdate": "D:20150304103354+01'00'",
+            "creator": "Adobe InDesign CC 2014 (Macintosh)",
+            "producer": "Adobe PDF Library 11.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///cb29d51180d1cb85fae15c2371dff2fd169f67d84469cdde2fcad4adf9e12a11"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nestlé et la société Création de valeur partagée et respect de nos ...",
+      "htmlTitle": "Nestlé et la société Création de valeur partagée et respect de nos ...",
+      "link": "https://www.nestle.ch/fr/engagement/csv/documents/nestle-in-society-summary-report-2017-fr.pdf",
+      "displayLink": "www.nestle.ch",
+      "snippet": "duits alimentaires du Dow Jones Sustainability Index 2017. Protéger l'environnement. Les ingrédients de base de tous nos aliments proviennent.",
+      "htmlSnippet": "duits alimentaires du Dow Jones \u003cb\u003eSustainability\u003c/b\u003e Index 2017. Protéger l&#39;environnement. Les ingrédients de base de tous nos aliments proviennent.",
+      "cacheId": "EI_RcHseUT4J",
+      "formattedUrl": "https://www.nestle.ch/fr/.../nestle-in-society-summary-report-2017-fr.pdf",
+      "htmlFormattedUrl": "https://www.nestle.ch/fr/.../nestle-in-society-summary-report-2017-fr.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs17_pxhAuLTEwkFOEc1vfCno6sWVKHlkkkEpJbkyEUWwmRVWq9NJ4BS0",
+            "width": "273",
+            "height": "184"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20180309162139+01'00'",
+            "creationdate": "D:20180309162130+01'00'",
+            "creator": "Adobe InDesign CC 13.0 (Macintosh)",
+            "producer": "Adobe PDF Library 15.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///4b67dd7949a4b4211d7ba46e5ac6018c3cd494c30f2c69df47f016af801fad10"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "147e Assemblée générale annuelle de Nestlé S.A. Lausanne, le 10 ...",
+      "htmlTitle": "147e Assemblée générale annuelle de Nestlé S.A. Lausanne, le 10 ...",
+      "link": "https://www.nestle.ch/fr/documents/ag%202014_speeches_brabeck-bulcke_fr.pdf",
+      "displayLink": "www.nestle.ch",
+      "snippet": "Apr 10, 2014 ... taires du Dow Jones Sustainability Index. Il s'agit de témoignages de reconnais- sance dont nous pouvons être fiers et qui nous incitent à ...",
+      "htmlSnippet": "Apr 10, 2014 \u003cb\u003e...\u003c/b\u003e taires du Dow Jones \u003cb\u003eSustainability\u003c/b\u003e Index. Il s&#39;agit de témoignages de reconnais- sance dont nous pouvons être fiers et qui nous incitent à&nbsp;...",
+      "cacheId": "aHdHL4ghoDwJ",
+      "formattedUrl": "https://www.nestle.ch/fr/.../ag%202014_speeches_brabeck-bulcke_fr.pdf",
+      "htmlFormattedUrl": "https://www.nestle.ch/fr/.../ag%202014_speeches_brabeck-bulcke_fr.pdf",
+      "pagemap": {
+        "metatags": [
+          {
+            "moddate": "D:20140409141810+02'00'",
+            "creationdate": "D:20140407081313+02'00'",
+            "creator": "Adobe InDesign CS6 (Macintosh)",
+            "producer": "Adobe PDF Library 10.0.1"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "147. jährliche Generalversammlung der Nestlé AG Lausanne, den ...",
+      "htmlTitle": "147. jährliche Generalversammlung der Nestlé AG Lausanne, den ...",
+      "link": "https://www.nestle.ch/fr/documents/ag%202014_speeches_brabeck-bulcke_de.pdf",
+      "displayLink": "www.nestle.ch",
+      "snippet": "Apr 10, 2014 ... der Nahrungsmittelbranche zum ersten Mal führend im Dow Jones Sustainability. Index. All dies sind Zeichen der Anerkennung, ...",
+      "htmlSnippet": "Apr 10, 2014 \u003cb\u003e...\u003c/b\u003e der Nahrungsmittelbranche zum ersten Mal führend im Dow Jones \u003cb\u003eSustainability\u003c/b\u003e. Index. All dies sind Zeichen der Anerkennung,&nbsp;...",
+      "cacheId": "sSZxAOOHFJQJ",
+      "formattedUrl": "https://www.nestle.ch/fr/.../ag%202014_speeches_brabeck-bulcke_de.pdf",
+      "htmlFormattedUrl": "https://www.nestle.ch/fr/.../ag%202014_speeches_brabeck-bulcke_de.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGiVxNsDdlhxJa40_JO6KO6yYkReVmEMoNZNMgUHRqDPodwQqr2jV6ymQE",
+            "width": "188",
+            "height": "268"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20140409142819+02'00'",
+            "creationdate": "D:20140409100617+02'00'",
+            "creator": "Adobe InDesign CS6 (Macintosh)",
+            "producer": "Adobe PDF Library 10.0.1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///fac096b2184a09b04e07c71cd541364091d9d4cba8ce9854c3b48543df6e97a9"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Unsere Verpflichtungen für die Schweiz",
+      "htmlTitle": "Unsere Verpflichtungen für die Schweiz",
+      "link": "https://www.nestle.ch/de/engagement/documents/csv-de.pdf",
+      "displayLink": "www.nestle.ch",
+      "snippet": "Dow Jones Sustainability-Indizes. Die Nachhaltigkeitsindizes von Dow Jones messen die Leistung der weltweiten Leader in nachhaltiger Entwicklung.",
+      "htmlSnippet": "Dow Jones \u003cb\u003eSustainability\u003c/b\u003e-Indizes. Die Nachhaltigkeitsindizes von Dow Jones messen die Leistung der weltweiten Leader in nachhaltiger Entwicklung.",
+      "cacheId": "YlfVkGOR3dYJ",
+      "formattedUrl": "https://www.nestle.ch/de/engagement/documents/csv-de.pdf",
+      "htmlFormattedUrl": "https://www.nestle.ch/de/engagement/documents/csv-de.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_RkYno03k7YGkShQUydCCwVcmGpBIIVFpp3K6MyF85Ggul4IgfD9rK7ws",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20170323123226+01'00'",
+            "creationdate": "D:20170322101109+01'00'",
+            "creator": "Adobe InDesign CC 2017 (Macintosh)",
+            "producer": "Adobe PDF Library 15.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///4c043e0b20b649c749e2d2a0a82404948fd7a1197281aac5532115a9d911ab18"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Nestlé in der Schweiz 2017",
+      "htmlTitle": "Nestlé in der Schweiz 2017",
+      "link": "https://www.nestle.ch/sites/g/files/pydnoa506/files/asset-library/documents/online_nestle%CC%81_in_der_schweiz_2017.pdf",
+      "displayLink": "www.nestle.ch",
+      "snippet": "Führendes Unternehmen der Nahrungsmittelbran- che im Dow Jones Sustainability Index (DJSI). 2017 mit insgesamt 89 von 100 Punkten. Führend im Klimaschutz‑ ...",
+      "htmlSnippet": "Führendes Unternehmen der Nahrungsmittelbran- che im Dow Jones \u003cb\u003eSustainability\u003c/b\u003e Index (DJSI). 2017 mit insgesamt 89 von 100 Punkten. Führend im Klimaschutz‑&nbsp;...",
+      "cacheId": "Q_--Q-tGKGYJ",
+      "formattedUrl": "https://www.nestle.ch/sites/g/.../online_nestlé_in_der_schweiz_2017.pdf",
+      "htmlFormattedUrl": "https://www.nestle.ch/sites/g/.../online_nestlé_in_der_schweiz_2017.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxdUw6i_kZkZuuDIrh_jMvKPp7woHM3KI0X2rDs4G6NgRlxtQ0jAreWp9H",
+            "width": "241",
+            "height": "209"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20180424155903+02'00'",
+            "creationdate": "D:20180424155806+02'00'",
+            "creator": "Adobe InDesign CC 13.1 (Macintosh)",
+            "producer": "Adobe PDF Library 15.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///f05a65b763156cfb3b5954760a1f2f81457bcc31ca88172b9a11696651b7addf"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    }
+  ]
+}
