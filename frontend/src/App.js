@@ -15,7 +15,7 @@ function App () {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo"/>
         <p>
-          businessresponsibility.ch
+          businessresponsibility.ch!! 🍕🍕🍕
         </p>
         <p>{message || 'Loading...'}</p>
       </header>
