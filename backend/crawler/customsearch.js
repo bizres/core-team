@@ -26,8 +26,10 @@ async function runSample(options, site) {
     cx: options.cx,
     q: options.q,
     auth: options.apiKey,
-    /*
     fileType: options.fileType,
+    num: options.num,
+    start: options.start,
+    /*
     gl: options.gl,
     cr: options.cr,
     lr: options.lr,
@@ -37,16 +39,17 @@ async function runSample(options, site) {
 }
 
 // Function to store search results in .json files
-function writeJSON(data, name) {
+function writeJSON(data, site) {
   try {
-    // Ensure existence of jsons/ subfolder and define filename
-    if (!fs.existsSync('jsons/')) {
-      fs.mkdirSync('jsons/');
+    // Ensure existence of saving path and define filename
+    const path = 'jsons/' + date + '/'
+    if (!fs.existsSync(path)) {
+      fs.mkdirSync(path);
     }
-    const filename = 'jsons/' + name + '.json';
+    const filename_out = path + site + '.json';
     // Stringify data and save file
     const strdata = JSON.stringify(data, null, 2);
-    fs.writeFileSync(filename, strdata);
+    fs.writeFileSync(filename_out, strdata);
     console.log('JSON data is saved.');
   } catch (err) {
     console.error(err);
@@ -61,10 +64,11 @@ if (process.argv.length < 3) {
 }
 
 // Read the input file store list of companies' websites
-const filename = process.argv[2];
+const filename_in = process.argv[2];
+const date = filename_in.substring(filename_in.length-10,filename_in.length-4)
 let websites;
 try {
-  websites = fs.readFileSync(filename, 'utf8').split('\r\n');
+  websites = fs.readFileSync(filename_in, 'utf8').split('\r\n');
   console.log('Read websites: ', websites);
 } catch (err) {
   console.error(err);
@@ -77,13 +81,17 @@ for (let ws = 0; ws < websites.length; ws++) {
   // Set search options
   if (module === require.main) {
     const options = {
-      q: 'site:' + site + ' sustainability 2017',
+      q: 'site:' + site + ' sustainability 2019',
       apiKey: 'AIzaSyAvFpf34goYcQW186rfnEwAdBrD0FvfGRo',
       cx: '8b4ac89e366051c73',
       fileType: 'pdf',
+      num: 10,
+      start: 1,
+      /*
       gl: 'ch',
       cr: 'countryCH',
       lr: '(lang_en|lang_de|lang_fr|lang_it)',
+      */
     };
     runSample(options, site).catch(console.error);
   }
