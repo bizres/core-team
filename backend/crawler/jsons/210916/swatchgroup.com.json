@@ -73,6 +73,41 @@
   },
   {
     "kind": "customsearch#result",
+    "title": "annual report - 2017",
+    "htmlTitle": "annual report - 2017",
+    "link": "https://www.swatchgroup.com/sites/default/files/media-files/2017_annual_report_complete_en.pdf",
+    "displayLink": "www.swatchgroup.com",
+    "snippet": "May 2, 2017 ... with sustainable Swiss wood and an inge- ... 2019. Total. 207 287. The allocation results from personnel reviews and proposals for employees ...",
+    "htmlSnippet": "May 2, 2017 <b>...</b> with <b>sustainable</b> Swiss wood and an inge- ... <b>2019</b>. Total. 207 287. The allocation results from personnel reviews and proposals for employees&nbsp;...",
+    "formattedUrl": "https://www.swatchgroup.com/sites/.../2017_annual_report_complete_en.pdf",
+    "htmlFormattedUrl": "https://www.swatchgroup.com/sites/.../2017_annual_report_complete_en.pdf",
+    "pagemap": {
+      "cse_thumbnail": [
+        {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaicHPGmUC-bMTTHLjj8hlNF108h99NxGeUmjNJZt3Q5sSeDGaF71cixzP",
+          "width": "266",
+          "height": "189"
+        }
+      ],
+      "metatags": [
+        {
+          "moddate": "D:20180308103820+01'00'",
+          "creationdate": "D:20180307134038+01'00'",
+          "creator": "Adobe InDesign CC 2017 (Macintosh)",
+          "producer": "Adobe PDF Library 15.0"
+        }
+      ],
+      "cse_image": [
+        {
+          "src": "x-raw-image:///7f3979abd30243133fa5f0b9e3db6c6f46c7ef3b34278a1adc0df8960a5df32e"
+        }
+      ]
+    },
+    "mime": "application/pdf",
+    "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+    "kind": "customsearch#result",
     "title": "ANNUAL REPORT 2018",
     "htmlTitle": "ANNUAL REPORT 2018",
     "link": "https://www.swatchgroup.com/sites/default/files/media-files/2018_annual_report_complete_en.pdf",

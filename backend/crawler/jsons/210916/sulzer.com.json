@@ -37,44 +37,6 @@
   },
   {
     "kind": "customsearch#result",
-    "title": "Sulzer Sustainability Data Collection 2019_v3.xlsx",
-    "htmlTitle": "Sulzer <b>Sustainability</b> Data Collection <b>2019_v3</b>.xlsx",
-    "link": "https://www.sulzer.com/-/media/files/about-us/our-company/sustainability/sulzer_sustainability_data_collection_2019.ashx?la=en",
-    "displayLink": "www.sulzer.com",
-    "snippet": "Complement to the Sulzer Annual Report 2019. Sulzer sustainability data 2019. Social Sustainability. Labor Relations. Number of employees. Unit. 2019.",
-    "htmlSnippet": "Complement to the Sulzer Annual Report <b>2019</b>. Sulzer <b>sustainability</b> data <b>2019</b>. Social <b>Sustainability</b>. Labor Relations. Number of employees. Unit. <b>2019</b>.",
-    "cacheId": "9AXH65dRNO4J",
-    "formattedUrl": "https://www.sulzer.com/-/.../sustainability/sulzer_sustainability_data_ collection_2019.ashx?...",
-    "htmlFormattedUrl": "https://www.sulzer.com/-/.../<b>sustainability</b>/sulzer_<b>sustainability</b>_data_ collection_<b>2019</b>.ashx?...",
-    "pagemap": {
-      "cse_thumbnail": [
-        {
-          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPq1HkYEKzUWRMj6JQxjQGIt7xvSYWs73kGxtqfoRPN7y21_-HzxSkg",
-          "width": "252",
-          "height": "91"
-        }
-      ],
-      "metatags": [
-        {
-          "moddate": "D:20200218081715+01'00'",
-          "creationdate": "D:20200218081715+01'00'",
-          "creator": "PScript5.dll Version 5.2.2",
-          "author": "meieval",
-          "producer": "Acrobat Distiller 20.0 (Windows)",
-          "title": "Sulzer Sustainability Data Collection 2019_v3.xlsx"
-        }
-      ],
-      "cse_image": [
-        {
-          "src": "x-raw-image:///fc135019635681f878203d1e5ea54d6aeab0c18130a9938a628495392d3d9fbb"
-        }
-      ]
-    },
-    "mime": "application/pdf",
-    "fileFormat": "PDF/Adobe Acrobat"
-  },
-  {
-    "kind": "customsearch#result",
     "title": "Sulzer wins Sustainability Award 2019 from Packaging Europe with ...",
     "htmlTitle": "Sulzer wins <b>Sustainability</b> Award <b>2019</b> from Packaging Europe with ...",
     "link": "https://www.sulzer.com/-/media/images/about_us/news/2019/190927-ecopacc-wins-sustainability-award/sustainability_award_with_ecopacc.ashx",
@@ -297,6 +259,40 @@
       "cse_image": [
         {
           "src": "x-raw-image:///afeb4f98c3cdcb26b85dd62cfa273c16411258625ad7a4a584fe5634e7726c5e"
+        }
+      ]
+    },
+    "mime": "application/pdf",
+    "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+    "kind": "customsearch#result",
+    "title": "Untitled",
+    "htmlTitle": "Untitled",
+    "link": "https://www.sulzer.com/-/media/files/about-us/investors/presentations-and-webcasts/210615_medmix_cmd.pdf?la=en",
+    "displayLink": "www.sulzer.com",
+    "snippet": "Jun 15, 2021 ... ecopaCC sustainability award in 2019. Ecovadis established in Haag in 2020: Silver. Ecovadis planned to be established in four sites in 2021.",
+    "htmlSnippet": "Jun 15, 2021 <b>...</b> ecopaCC <b>sustainability</b> award in <b>2019</b>. Ecovadis established in Haag in 2020: Silver. Ecovadis planned to be established in four sites in 2021.",
+    "cacheId": "XwNkZqAzgeQJ",
+    "formattedUrl": "https://www.sulzer.com/-/media/files/about.../210615_medmix_cmd.pdf?...",
+    "htmlFormattedUrl": "https://www.sulzer.com/-/media/files/about.../210615_medmix_cmd.pdf?...",
+    "pagemap": {
+      "cse_thumbnail": [
+        {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF_pxKFYRR3mptaNLONN_b35Qd1lXsuxE9qgarVwSQaPPGIJXf09XKrxyH",
+          "width": "256",
+          "height": "197"
+        }
+      ],
+      "metatags": [
+        {
+          "moddate": "D:20210820134500+02'00'",
+          "creationdate": "D:20210820134500+02'00'"
+        }
+      ],
+      "cse_image": [
+        {
+          "src": "x-raw-image:///c5b68b46ca429c9ef93f21a6437fba5ff8c3e422f1cef0ec0d984d96a9325215"
         }
       ]
     },
