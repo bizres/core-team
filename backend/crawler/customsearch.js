@@ -40,19 +40,24 @@ async function runSample(options, site) {
 
 // Function to store search results in .json files
 function writeJSON(data, site) {
-  try {
-    // Ensure existence of saving path and define filename
-    const path = 'jsons/' + date + '/'
-    if (!fs.existsSync(path)) {
-      fs.mkdirSync(path);
+  if (typeof data !== 'undefined' && data !== null) {
+    try {
+      // Ensure existence of saving path and define filename
+      const path = 'jsons/' + date + '/'
+      if (!fs.existsSync(path)) {
+        fs.mkdirSync(path);
+      }
+      const filename_out = path + site + '.json';
+      // Stringify data and save file
+      const strdata = JSON.stringify(data, null, 2);
+      fs.writeFileSync(filename_out, strdata);
+      console.log('JSON data for website ' + site + ' is saved.');
+    } catch (err) {
+      console.error(err);
     }
-    const filename_out = path + site + '.json';
-    // Stringify data and save file
-    const strdata = JSON.stringify(data, null, 2);
-    fs.writeFileSync(filename_out, strdata);
-    console.log('JSON data is saved.');
-  } catch (err) {
-    console.error(err);
+  }
+  else {
+    console.log('Google API search for website ' + site + ' delivered no results.');
   }
 }
 
