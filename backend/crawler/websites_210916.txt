@@ -1,6 +1,4 @@
 cargill.com
-clariant.com
-dsv.com
 georgfischer.com
 kuehne-nagel.com
 lindt-spruengli.com
@@ -12,5 +10,4 @@ schindler.com
 sgs.com
 sika.com
 sulzer.com
-swatchgroup.com
 tetrapak.com

@@ -6,15 +6,13 @@ clariant    - integrated report, somehow can't find with API with "sustainabilit
 vitol       - no pdf report (only from 2020 onwards apparently)
 dsv         - called "responsibility report", somehow can't find with API with "sustainability" keyword
 swatchgroup - integrated report, somehow can't find with API with "sustainability" keyword (for 2019)
-
-schmobi     -
-dormakaba   -
-sfs         -
-bucherindustries -
-sv-group -
+schmobi     - small website, look into group website: swisssteel-group.com
+svgroup     - reports only in german for years 2014, 2015, 2018, not found with API
 bkw         - apparently they (only) publish .pdf reports in german, otherwise it's mostly site-embedded
 buhlergroup - integrated report, somehow can't find with API with "sustainability" keyword
 endress & h - integrated report, somehow can't find with API with "sustainability" keyword
 omya        - this firm doesn't seem to publish any report at all
 raiffeisen  - swiss website only, need to look for german terms
 sfs         - report (https://sustainability.sfs.com/media-sustainability/downloads/sustainability-report-2019_all-in-one-2.pdf) existiert aber wird nicht gefunden mit API
+planzer     - can't find with API since DNS where files are located is different from DNS of webpage
+zkb         - swiss website only, need to look for german terms
